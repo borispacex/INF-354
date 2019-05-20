@@ -1,8 +1,8 @@
 # INF-354 
 
-##Indicaciones 
+## Indicaciones 
 
-###sin titulo 7 
+### sin titulo 7 
 
 ### sin titulo 8
 
